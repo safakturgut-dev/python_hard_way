@@ -1,3 +1,4 @@
+# Ex 19 study
 def bill_detail(base_cost, extra_text, extra_minute):
     tax = (base_cost + extra_text + extra_minute) * 5 / 100
     print(f"The base cost for your phone bill is ${base_cost}.")

@@ -20,4 +20,4 @@ f.close()
 # lines = f"{line1}\n{line2}\n{line3}\n"
 # target.write(lines)
 
-# truncate() not necessary write method alredy empty the file before write to it.
+# truncate() not necessary, write method alredy empty the file before write to it.
